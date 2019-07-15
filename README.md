@@ -14,6 +14,8 @@ Sample Input
 4
 4
 2 2 4 3
+
+
 Sample Output
 
 1 4
